@@ -1,3 +1,0 @@
-Problem 1: compiles, runs correctly on all provided input
-Problem 2: writeup attached in Lab4P2writeup.txt
-Problem 3: Complete

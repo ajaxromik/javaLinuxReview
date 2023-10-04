@@ -1,5 +1,0 @@
-Problem 1: compiles, runs correctly on all provided input
-Problem 2: compiles, runs correctly on all provided input
-Problem 3: compiles, runs correctly on all provided input,
-		   and writeup attached in Lab3P3writeup.txt
-Problem 4: Complete

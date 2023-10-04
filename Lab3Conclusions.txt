@@ -1,2 +1,0 @@
-I learned about the String.compareTo() method and how linkedlists are really
-implemented.

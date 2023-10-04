@@ -1,2 +1,0 @@
-I learned that a CDLS takes up a significantly larger amount of space,
-and I learned how to make functions have faster time complexities.
